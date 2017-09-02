@@ -4,3 +4,5 @@ python:
   - "3.5"
 
 script: python -m unittest
+notifications:
+   slack: devops-team-otus:2Igrwg4Zv3d9U9rCObe31Wqt
